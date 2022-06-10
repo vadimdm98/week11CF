@@ -1,0 +1,15 @@
+/Users/GRI$$$HA/Projects/Functions/FunctionsReturn/obj/Debug/net5.0/FunctionsReturn.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/Functions/FunctionsReturn/obj/Debug/net5.0/FunctionsReturn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/Functions/FunctionsReturn/obj/Debug/net5.0/FunctionsReturn.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/Functions/FunctionsReturn/obj/Debug/net5.0/FunctionsReturn.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/Functions/FunctionsReturn/obj/Debug/net5.0/FunctionsReturn.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/Functions/FunctionsReturn/bin/Debug/net5.0/FunctionsReturn.deps.json
+/Users/GRI$$$HA/Projects/Functions/FunctionsReturn/bin/Debug/net5.0/FunctionsReturn.runtimeconfig.json
+/Users/GRI$$$HA/Projects/Functions/FunctionsReturn/bin/Debug/net5.0/FunctionsReturn.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/Functions/FunctionsReturn/bin/Debug/net5.0/FunctionsReturn.dll
+/Users/GRI$$$HA/Projects/Functions/FunctionsReturn/bin/Debug/net5.0/ref/FunctionsReturn.dll
+/Users/GRI$$$HA/Projects/Functions/FunctionsReturn/bin/Debug/net5.0/FunctionsReturn.pdb
+/Users/GRI$$$HA/Projects/Functions/FunctionsReturn/obj/Debug/net5.0/FunctionsReturn.dll
+/Users/GRI$$$HA/Projects/Functions/FunctionsReturn/obj/Debug/net5.0/ref/FunctionsReturn.dll
+/Users/GRI$$$HA/Projects/Functions/FunctionsReturn/obj/Debug/net5.0/FunctionsReturn.pdb
+/Users/GRI$$$HA/Projects/Functions/FunctionsReturn/obj/Debug/net5.0/FunctionsReturn.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/GRI$$$HA/Projects/Functions/CelsiusToFahrenheit/bin/Debug/net5.0/CelsiusToFahrenheit.deps.json
+/Users/GRI$$$HA/Projects/Functions/CelsiusToFahrenheit/bin/Debug/net5.0/CelsiusToFahrenheit.runtimeconfig.json
+/Users/GRI$$$HA/Projects/Functions/CelsiusToFahrenheit/bin/Debug/net5.0/CelsiusToFahrenheit.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/Functions/CelsiusToFahrenheit/bin/Debug/net5.0/CelsiusToFahrenheit.dll
+/Users/GRI$$$HA/Projects/Functions/CelsiusToFahrenheit/bin/Debug/net5.0/ref/CelsiusToFahrenheit.dll
+/Users/GRI$$$HA/Projects/Functions/CelsiusToFahrenheit/bin/Debug/net5.0/CelsiusToFahrenheit.pdb
+/Users/GRI$$$HA/Projects/Functions/CelsiusToFahrenheit/obj/Debug/net5.0/CelsiusToFahrenheit.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/Functions/CelsiusToFahrenheit/obj/Debug/net5.0/CelsiusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/Functions/CelsiusToFahrenheit/obj/Debug/net5.0/CelsiusToFahrenheit.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/Functions/CelsiusToFahrenheit/obj/Debug/net5.0/CelsiusToFahrenheit.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/Functions/CelsiusToFahrenheit/obj/Debug/net5.0/CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/Functions/CelsiusToFahrenheit/obj/Debug/net5.0/CelsiusToFahrenheit.dll
+/Users/GRI$$$HA/Projects/Functions/CelsiusToFahrenheit/obj/Debug/net5.0/ref/CelsiusToFahrenheit.dll
+/Users/GRI$$$HA/Projects/Functions/CelsiusToFahrenheit/obj/Debug/net5.0/CelsiusToFahrenheit.pdb
+/Users/GRI$$$HA/Projects/Functions/CelsiusToFahrenheit/obj/Debug/net5.0/CelsiusToFahrenheit.genruntimeconfig.cache

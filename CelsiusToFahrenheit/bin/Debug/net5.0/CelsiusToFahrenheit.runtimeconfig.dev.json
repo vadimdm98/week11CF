@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/GRI$$$HA/.dotnet/store/|arch|/|tfm|",
+      "/Users/GRI$$$HA/.nuget/packages"
+    ]
+  }
+}

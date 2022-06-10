@@ -1,0 +1,15 @@
+/Users/GRI$$$HA/Projects/Functions/Calculator/bin/Debug/net5.0/Calculator.deps.json
+/Users/GRI$$$HA/Projects/Functions/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.json
+/Users/GRI$$$HA/Projects/Functions/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/Functions/Calculator/bin/Debug/net5.0/Calculator.dll
+/Users/GRI$$$HA/Projects/Functions/Calculator/bin/Debug/net5.0/ref/Calculator.dll
+/Users/GRI$$$HA/Projects/Functions/Calculator/bin/Debug/net5.0/Calculator.pdb
+/Users/GRI$$$HA/Projects/Functions/Calculator/obj/Debug/net5.0/Calculator.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/Functions/Calculator/obj/Debug/net5.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/Functions/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/Functions/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/Functions/Calculator/obj/Debug/net5.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/Functions/Calculator/obj/Debug/net5.0/Calculator.dll
+/Users/GRI$$$HA/Projects/Functions/Calculator/obj/Debug/net5.0/ref/Calculator.dll
+/Users/GRI$$$HA/Projects/Functions/Calculator/obj/Debug/net5.0/Calculator.pdb
+/Users/GRI$$$HA/Projects/Functions/Calculator/obj/Debug/net5.0/Calculator.genruntimeconfig.cache
